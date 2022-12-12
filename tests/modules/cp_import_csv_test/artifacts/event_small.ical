@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZContent.net//Zap Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Test Event 001
+UID:c7614cff-3549-4a00-9152-d25cc1fe177f
+DTSTART:20200212T041215
+DTEND:20200213T051515
+LOCATION:Boston
+DESCRIPTION: This is a test event
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf
+REGISTRATION:On
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event 007
+UID:c7614cff-3549-4a00-9152-d25cc1fe177g
+DTSTART:20190212T041215
+DTEND:20190213T051515
+LOCATION:New York
+DESCRIPTION: This is a test event 007
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png
+REGISTRATION:On
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event 008
+UID:c7614cff-3549-4a00-9152-d25cc1fe177h
+DTSTART:20190212T041215
+DTEND:20190213T051515
+LOCATION:New York
+DESCRIPTION: This is a test event 008
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png
+REGISTRATION:On
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event 009
+UID:c7614cff-3549-4a00-9152-d25cc1fe177i
+DTSTART:20190212T041215
+DTEND:20190213T051515
+LOCATION:New York
+DESCRIPTION: This is a test event 009
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf
+REGISTRATION:On
+END:VEVENT
+END:VCALENDAR

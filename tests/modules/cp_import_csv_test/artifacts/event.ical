@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZContent.net//Zap Calendar 1.0//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+END:VTIMEZONE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Test Event 001
+UID:c7614cff-3549-4a00-9152-d25cc1fe077f
+DTSTART;TZID=America/New_York:20200212T041215
+DTEND;TZID=America/New_York:20200213T051515
+LOCATION:Boston
+DESCRIPTION: This is a test event
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf
+REGISTRATION:On
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event 002
+UID:c7614cff-3549-4a00-9152-d25cc1fe077g
+DTSTART:20190212T041215
+DTEND:20190213T051515
+LOCATION:New York
+DESCRIPTION: This is a test event 002
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png
+REGISTRATION:On
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event 003
+UID:c7614cff-3549-4a00-9152-d25cc1fe077h
+DTSTART:20190212T041215
+DTEND:20190213T051515
+LOCATION:New York
+DESCRIPTION: This is a test event 003
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png
+REGISTRATION:On
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event 004
+UID:c7614cff-3549-4a00-9152-d25cc1fe077i
+DTSTART:20190212T041215
+DTEND:20190213T051515
+LOCATION:New York
+DESCRIPTION: This is a test event 004
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf
+REGISTRATION:On
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event 005
+UID:c7614cff-3549-4a00-9152-d25cc1fe077j
+DTSTART:20190212T041215
+DTEND:20190213T051515
+LOCATION:New York
+DESCRIPTION: This is a test event 005
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png
+REGISTRATION:On
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test Event 006
+UID:c7614cff-3549-4a00-9152-d25cc1fe077k
+DTSTART:20190212T041215
+DTEND:20190213T051515
+LOCATION:New York
+DESCRIPTION: This is a test event 006
+FILES:https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf
+REGISTRATION:On
+END:VEVENT
+END:VCALENDAR

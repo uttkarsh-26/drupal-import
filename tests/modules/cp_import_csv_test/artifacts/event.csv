@@ -1,0 +1,9 @@
+Title,Body,Start date,End date,Location,Registration,Files,Created date,Path,vocab-event
+Test Event 1,This is event with registration,2020-02-02,2020-04-03,Boston,On,,12/31/2020,test-event-1,eterm1|eterm2
+Test Event 2,This is event without registration,2020-02-12 01:00 am,2020-04-16 01:00 pm,Boston,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/31/2020,test-event-2,
+Test Event 3,This is event without registration,2020-02-02,2020-04-03,Boston,,,22-02-2020,test-event-3,
+Test Event 4,This is event with registration,2020-02-02,2020-04-03,Boston,On,,12/31/2020,test-event-4,
+Test Event 5,This is event with registration,2020-02-02,2020-04-03,Boston,On,,12/31/2020,test-event-5,
+Test Event 6,This is event with registration,2020-02-02,2020-04-03,Boston,On,,2020-02-22,test-event-6,
+Test Event 7,This is all day event,2020-06-20,2020-06-20,Boston,On,,2020-06-11,test-event-7,
+

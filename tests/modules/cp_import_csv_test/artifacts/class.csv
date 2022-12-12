@@ -1,0 +1,3 @@
+Title,Body,Link title,Link URL,Year,Semester,Files,Created date,Path,vocab-class
+Harvard University,Text body content,Quantum Physics,http://www.example.com/courses/quantum,2000,Fall,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,11/30/2020,some-class-harvard,cterm1|cterm2
+Class test,body content,Quantum Chemistry,http://www.example.com/courses/quantum,2000,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,11/30/2020,class-harvard,

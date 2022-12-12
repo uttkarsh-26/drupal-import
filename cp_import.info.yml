@@ -1,0 +1,12 @@
+name: Cp Import
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - drupal:cp
+  - drupal:migrate_source_csv
+  - drupal:vsite
+  - drupal:migrate_tools
+  - drupal:os_media
+  - drupal:bibcite_import
+  - drupal:bibcite_bibtex

@@ -1,0 +1,7 @@
+Title,Date,Location,Body,Files,Created date,Path,vocab-present
+presentation1,2020-02-18,Harvard,Text Body,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,2020-12-30,presentation-1,pterm1|pterm2
+presentation2,2020-02-18,Harvard,Text Body,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/30/2020,presentation-2,
+presentation3,2020-02-18,Harvard,Text Body,,22-02-2020,presentation-3,
+presentation4,2020-02-18,Harvard,Text Body,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/30/2020,presentation-4,
+presentation5,2020-02-18,Harvard,Text Body,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/30/2020,presentation-5,
+presentation6,Jun 16 2020,Harvard,Text Body,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/30/2020,presentation-6,

@@ -1,0 +1,18 @@
+services:
+  post_save_migration_subscriber:
+    class: '\Drupal\cp_import\EventSubscriber\CpImportMigrationSubscriber'
+    arguments: ['@app_import_factory']
+    tags:
+      - { name: 'event_subscriber' }
+  cp_import.helper:
+    class: '\Drupal\cp_import\Helper\CpImportHelper'
+    arguments: ['@vsite.context_manager', '@entity_type.manager', '@os_media.media_helper', '@current_user', '@language_manager', '@entity_field.manager', '@file_system', '@pathauto.generator', '@database']
+  cp_import.publication_helper:
+    class: '\Drupal\cp_import\Helper\CpImportPublicationHelper'
+    arguments: ['@vsite.context_manager', '@entity_type.manager', '@plugin.manager.bibcite_format', '@serializer', '@config.factory', '@logger.factory']
+  app_import_factory:
+    class: 'Drupal\cp_import\AppImportFactory'
+    arguments: ['@cp_import.helper', '@vsite.path_alias.repository', '@language_manager', '@entity_type.manager', '@vsite.context_manager']
+  cp_import_access.check:
+    class: '\Drupal\cp_import\Access\CpImportAccessCheck'
+    arguments: ['@os_app_access.app_access', '@vsite.app.manager', '@entity_type.manager']

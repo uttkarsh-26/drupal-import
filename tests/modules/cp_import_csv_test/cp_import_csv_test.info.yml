@@ -1,0 +1,7 @@
+name: Cp Import CSV Test
+type: module
+package: Testing
+core: 8.x
+dependencies:
+  - 'drupal:cp_import'
+core_version_requirement: ^8 || ^9

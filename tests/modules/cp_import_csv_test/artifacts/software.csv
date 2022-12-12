@@ -1,0 +1,11 @@
+Title,Body,Files,Created date,Path,vocab-software
+Test Software 1,Text,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,01/05/2014,software1,sterm1|sterm2
+Test Software 2,Text,,01/01/2014,software2,
+Test Software 3,Text,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,2020-02-22,software3,
+Test Software 4,Text,,22-02-2020,software4,
+Test Software 5,Text,,,software5,
+Test Software 6,Text,,01/01/2014,software6,
+Test Software 7,Text,,01/01/2014,software7,
+Test Software 8,Text,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,,software8,
+Test Software 9,Text,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,01/01/2014,software9,
+Test Software 10,Text,,01/01/2014,software10,

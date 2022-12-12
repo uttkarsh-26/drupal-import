@@ -1,0 +1,5 @@
+Title,Body,Start date,End date,Location,Registration,Files,Created date,Path
+Test Event 1,This is event with registration,2020-02-02,2020-04-03,Boston,On,,12/31/2020,test-event-1
+Test Event 7,This is event without registration,2020-02-12 01:00 am,2020-04-16 01:00 pm,Boston,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/31/2020,test-event-7
+Test Event 8,This is event without registration,2020-02-02,2020-04-03,Boston,,,12/31/2020,test-event-8
+Test Event 9,This is event with registration,2020-02-02,2020-04-03,Boston,On,,12/31/2020,test-event-9

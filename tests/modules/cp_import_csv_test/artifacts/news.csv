@@ -1,0 +1,7 @@
+Title,Date,Body,Redirect,Image,Files,Created date,Path,vocab-news
+Os Title1,2020-02-18,Text Body,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/30/2020,os-news-1,nterm1|nterm2
+Os Title2,2020-02-18,Text Body,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,2020-02-22,os-news-2,
+Os Title3,2020-02-18,Text Body,https://scholar.harvard.edu/bilsi/,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png,,22-02-2020,os-news-3,
+Os Title4,2020-02-18,Text Body,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/30/2020,os-news-4,
+Os Title5,2020-02-18,Text Body,,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/30/2020,os-news-5,
+Os Title6,2020-02-18,Text Body,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/lady6.png,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/30/2020,os-news-6,

@@ -1,0 +1,5 @@
+Title,Body,Start date,End date,Location,Registration,Files,Created date,Path
+Event with registration (including hour),This is event with registration,2020-11-30 03:20 PM,2020-11-30 03:50 PM,Boston,On,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/31/2020,
+Event without registration (including hour),This is event without registration,2020-9-20 03:20 PM,2020-9-20 03:50 PM,Toronto,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/31/2020,
+Event with registration,This is event with registration,2020-05-15,2020-05-15,Boston,On,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/31/2020,
+Event without registration,This is event without registration,2020-06-20,2020-06-20,Toronto,,https://raw.githubusercontent.com/openscholar/openscholar-libraries/master/test_files/dummy.pdf,12/31/2020,
